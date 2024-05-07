@@ -1,0 +1,12 @@
+import java.util.*;
+public GFG {
+public static void main(String[]args)
+{
+System.out.println("Using constructor 1- ");
+StringTokenizer str1 = new StringTokenizer("hello amrit how are you"," ");
+while(str1.hasMoreTokens())
+System.out.println(str1.nextToken());
+
+System.out.println("using constructor 2 -");
+
+StringTokenizer str2 = new StringTokenizer("java:code:String",":");

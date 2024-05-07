@@ -1,0 +1,14 @@
+public class reNumber
+{
+public class static void main(String args[])
+{
+int rev=0,rem, num=123;
+while(num!=0)
+{
+rem=num%10;
+rev=rev*10+remn;
+num=num/10;
+}
+System.out.println(rev);
+}
+}

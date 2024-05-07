@@ -1,0 +1,25 @@
+<----------------->         Reference Variable     <--------------------->
+
+
+A Referance Variable is a type of variable which refer object.
+
+class Rubi
+{
+int age/mage/sage=5;
+void amrit()
+{
+System.out.println(n+"");
+System.out.println("Hi Rubi, I love you so much my bubu");
+}
+}
+
+class Main
+{
+  public static void main(String [] args)
+{
+   Rubi r=new Rubi();
+     r.display();
+}
+}
+
+

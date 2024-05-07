@@ -1,0 +1,40 @@
+abstract class motor{
+
+abstract void colorOfBike();
+
+void Name(){
+
+System.out.println("My Name is Amrit Anand");
+}
+
+
+
+}
+
+
+Interface abc
+{
+ void amrit()
+}
+
+class bike extends motor{
+ 
+void colorOfBike(){
+
+System.out.println("Black Color");
+}
+
+}
+
+Inherit--------->>>>>>>>>> class
+
+override-------->>>>> Method()
+
+
+
+int[] arr=new int[5];
+
+a[0]=1
+a[0]=1
+a[0]=1
+a[0]=1
